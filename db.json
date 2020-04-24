@@ -1,7 +1,8 @@
 {
   "item": [
   {
-      "productId": 1,
+      "id": 1,
+      "productId": 1325,
       "regularPrice": 20.3,
       "salePrice": 34.69,
       "quantity": 2,
@@ -10,7 +11,8 @@
   
   },
      {
-      "productId": 2,
+       "id":2,
+      "productId": 2325,
       "regularPrice": 120.3,
       "salePrice": 34.659,
       "quantity": 3,
