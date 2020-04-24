@@ -8,6 +8,15 @@
       "description":"ehkgbk",
       "isSale":"yes"
   
+  },
+     {
+      "productId": 2,
+      "regularPrice": 120.3,
+      "salePrice": 34.659,
+      "quantity": 3,
+      "description":"asfehkgbk",
+      "isSale":"no"
+  
   }
  
   ]
