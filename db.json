@@ -1,10 +1,10 @@
 {
   "item": [
   {
-      "productId":"123",
-      "regularPrice":"20.3",
-      "salePrice":"34.69",
-      "quantity":"2",
+      "productId": 1,
+      "regularPrice": 20.3,
+      "salePrice": 34.69,
+      "quantity": 2,
       "description":"ehkgbk",
       "isSale":"yes"
   
