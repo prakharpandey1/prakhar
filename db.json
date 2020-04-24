@@ -1,0 +1,20 @@
+
+[
+{
+    "productId":"123",
+    "regularPrice":"20.3",
+    "salePrice":"34.69",
+    "quantity":"2",
+    "description":"ehkgbk",
+    "isSale":"yes"
+
+},
+{
+"productId":"12308",
+"regularPrice":"20.983",
+"salePrice":"34.0969",
+"quantity":"7",
+"description":"ehjhbkgbk",
+"isSale":"no"
+}
+]
